@@ -1,2 +1,2 @@
-# Projet-2
+# WORDPRESS Site
 Wordpress
