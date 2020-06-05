@@ -1,2 +1,2 @@
-# WORDPRESS Site
+# Wordpress site
 Wordpress
